@@ -2,6 +2,7 @@
   {
     "name": "PLA",
     "beschreibung": "Standard-Filament für anspruchsvolle Detailmodelle mit hervorragender Oberflächenqualität.",
+    "langbeschreibung": "PLA (Polylactid) ist ein biobasierter Kunststoff, der sich durch seine exzellente Druckbarkeit und hohe Detailgenauigkeit auszeichnet. Das Material bietet ein herausragendes Oberflächenfinish mit minimaler Schrumpfung und eignet sich ideal für präzise Prototypen, Designmodelle und visuelle Anschauungsobjekte. Aufgrund seiner nachhaltigen Herstellung aus nachwachsenden Rohstoffen ist PLA besonders umweltfreundlich. Die geringe Wärmeformbeständigkeit macht es jedoch weniger geeignet für Hochtemperaturanwendungen.",
     "witterung": "Niedrig",
     "uv": "Niedrig",
     "temp": 65,
@@ -15,6 +16,7 @@
   {
     "name": "PETG",
     "beschreibung": "Hochwertiges Allround-Material mit ausgewogenen technischen Eigenschaften für professionelle Anwendungen.",
+    "langbeschreibung": "PETG vereint die Vorteile von PLA und ABS in einem vielseitigen Engineering-Material. Die ausgezeichnete Schlagzähigkeit und chemische Beständigkeit machen es zum idealen Allrounder für funktionale Teile, mechanische Komponenten und Gebrauchsgegenstände. Das Material ist lebensmittelecht gemäß EU-Verordnung 10/2011 und bietet gute Witterungsbeständigkeit. Die geringe Geruchsentwicklung während des Drucks und die zuverlässige Schichthaftung ermöglichen effiziente Produktionsprozesse bei konsistent hoher Qualität.",
     "witterung": "Mittel",
     "uv": "Mittel",
     "temp": 80,
@@ -28,6 +30,7 @@
   {
     "name": "ASA",
     "beschreibung": "Premium-Material für anspruchsvolle Außenapplikationen mit industrietauglicher Wetterbeständigkeit.",
+    "langbeschreibung": "ASA (Acrylnitril-Styrol-Acrylester) wurde speziell für den Einsatz unter widrigen Umweltbedingungen entwickelt. Das High-Performance-Material bietet herausragende UV-Stabilität und behält seine mechanischen Eigenschaften sowie Farbintensität auch bei langfristiger Sonneneinstrahlung. Die exzellente Witterungsbeständigkeit macht ASA zur ersten Wahl für Automotive-Komponenten, Außengehäuse und architektonische Anwendungen. Im Vergleich zu ABS bietet ASA verbesserte Alterungsbeständigkeit bei vergleichbarer mechanischer Performance und Verarbeitbarkeit.",
     "witterung": "Hoch",
     "uv": "Hoch",
     "temp": 113,
@@ -41,6 +44,7 @@
   {
     "name": "PETG-CF",
     "beschreibung": "Hochleistungs-Composite mit Carbonfaser-Verstärkung für technisch anspruchsvolle Applikationen.",
+    "langbeschreibung": "PETG-CF kombiniert die positiven Eigenschaften von PETG mit der außergewöhnlichen Steifigkeit von Carbonfasern. Das Composite-Material erreicht eine deutlich erhöhte Biegesteifigkeit und reduzierte Wärmeausdehnung, was es ideal macht für präzise technische Bauteile, Leichtbaukonstruktionen und belastbare Funktionsprototypen. Die Carbonfaser-Verstärkung minimiert Warping und sorgt für herausragende Dimensionsstabilität. Die charakteristische Carbon-Optik verleiht den gedruckten Teilen zudem ein hochwertiges, professionelles Erscheinungsbild für anspruchsvolle Anwendungen.",
     "witterung": "Mittel",
     "uv": "Mittel",
     "temp": 80,
