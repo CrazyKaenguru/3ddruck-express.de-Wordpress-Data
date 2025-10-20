@@ -1,0 +1,37 @@
+[
+  {
+    "name": "PLA",
+    "beschreibung": "Leicht zu drucken, aber geringe Hitzebeständigkeit.",
+    "witterung": "Niedrig",
+    "uv": "Niedrig",
+    "temp": 65
+  },
+  {
+    "name": "PETG",
+    "beschreibung": "Zäh, wetterfest und leicht flexibel.",
+    "witterung": "Mittel",
+    "uv": "Mittel",
+    "temp": 80
+  },
+  {
+    "name": "ABS",
+    "beschreibung": "Hohe Temperaturbeständigkeit, formstabil.",
+    "witterung": "Mittel",
+    "uv": "Niedrig",
+    "temp": 95
+  },
+  {
+    "name": "ASA",
+    "beschreibung": "UV-beständig und wetterfest – ideal für Außenbereiche.",
+    "witterung": "Hoch",
+    "uv": "Hoch",
+    "temp": 113
+  },
+  {
+    "name": "PC",
+    "beschreibung": "Extrem temperaturfest und transparent.",
+    "witterung": "Hoch",
+    "uv": "Mittel",
+    "temp": 120
+  }
+]
