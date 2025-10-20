@@ -4,34 +4,59 @@
     "beschreibung": "Leicht zu drucken, aber geringe Hitzebeständigkeit.",
     "witterung": "Niedrig",
     "uv": "Niedrig",
-    "temp": 65
+    "temp": 65,
+    "vorteile": [
+      "Einfach zu drucken",
+      "Günstig",
+      "Umweltfreundlich (biologisch abbaubar)"
+    ]
   },
   {
     "name": "PETG",
     "beschreibung": "Zäh, wetterfest und leicht flexibel.",
     "witterung": "Mittel",
     "uv": "Mittel",
-    "temp": 80
+    "temp": 80,
+    "vorteile": [
+      "Wetterfest",
+      "Gute Haftung auf Druckbett",
+      "Leicht flexibel"
+    ]
   },
   {
     "name": "ABS",
     "beschreibung": "Hohe Temperaturbeständigkeit, formstabil.",
     "witterung": "Mittel",
     "uv": "Niedrig",
-    "temp": 95
+    "temp": 95,
+    "vorteile": [
+      "Hitzebeständig",
+      "Formstabil",
+      "Robust"
+    ]
   },
   {
     "name": "ASA",
     "beschreibung": "UV-beständig und wetterfest – ideal für Außenbereiche.",
     "witterung": "Hoch",
     "uv": "Hoch",
-    "temp": 113
+    "temp": 113,
+    "vorteile": [
+      "UV-beständig",
+      "Wetterfest",
+      "Langlebig im Außenbereich"
+    ]
   },
   {
     "name": "PC",
     "beschreibung": "Extrem temperaturfest und transparent.",
     "witterung": "Hoch",
     "uv": "Mittel",
-    "temp": 120
+    "temp": 120,
+    "vorteile": [
+      "Extrem hitzebeständig",
+      "Transparent",
+      "Sehr robust"
+    ]
   }
 ]
