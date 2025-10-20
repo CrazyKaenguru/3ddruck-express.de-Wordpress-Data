@@ -1,62 +1,54 @@
 [
   {
     "name": "PLA",
-    "beschreibung": "Leicht zu drucken, aber geringe Hitzebeständigkeit.",
+    "beschreibung": "Standard-Filament für anspruchsvolle Detailmodelle mit hervorragender Oberflächenqualität.",
     "witterung": "Niedrig",
     "uv": "Niedrig",
     "temp": 65,
     "vorteile": [
-      "Einfach zu drucken",
-      "Günstig",
-      "Umweltfreundlich (biologisch abbaubar)"
+      "Hervorragende Druckbarkeit",
+      "Minimale Schrumpfung",
+      "Premium Oberflächenfinish",
+      "Nachhaltige Materialbasis"
     ]
   },
   {
     "name": "PETG",
-    "beschreibung": "Zäh, wetterfest und leicht flexibel.",
+    "beschreibung": "Hochwertiges Allround-Material mit ausgewogenen technischen Eigenschaften für professionelle Anwendungen.",
     "witterung": "Mittel",
     "uv": "Mittel",
     "temp": 80,
     "vorteile": [
-      "Wetterfest",
-      "Gute Haftung auf Druckbett",
-      "Leicht flexibel"
-    ]
-  },
-  {
-    "name": "ABS",
-    "beschreibung": "Hohe Temperaturbeständigkeit, formstabil.",
-    "witterung": "Mittel",
-    "uv": "Niedrig",
-    "temp": 95,
-    "vorteile": [
-      "Hitzebeständig",
-      "Formstabil",
-      "Robust"
+      "Exzellente Schlagzähigkeit",
+      "Breite Chemikalienbeständigkeit",
+      "Lebensmittelkonforme Zertifizierung",
+      "Optimierte Schichthaftung"
     ]
   },
   {
     "name": "ASA",
-    "beschreibung": "UV-beständig und wetterfest – ideal für Außenbereiche.",
+    "beschreibung": "Premium-Material für anspruchsvolle Außenapplikationen mit industrietauglicher Wetterbeständigkeit.",
     "witterung": "Hoch",
     "uv": "Hoch",
     "temp": 113,
     "vorteile": [
-      "UV-beständig",
-      "Wetterfest",
-      "Langlebig im Außenbereich"
+      "Industrielle UV-Stabilität",
+      "Hochwertige Wetterfestigkeit",
+      "Erweiterte Temperaturbeständigkeit",
+      "Dimensionale Stabilität"
     ]
   },
   {
-    "name": "PC",
-    "beschreibung": "Extrem temperaturfest und transparent.",
-    "witterung": "Hoch",
+    "name": "PETG-CF",
+    "beschreibung": "Hochleistungs-Composite mit Carbonfaser-Verstärkung für technisch anspruchsvolle Applikationen.",
+    "witterung": "Mittel",
     "uv": "Mittel",
-    "temp": 120,
+    "temp": 80,
     "vorteile": [
-      "Extrem hitzebeständig",
-      "Transparent",
-      "Sehr robust"
+      "Exceptionale Steifigkeit",
+      "Minimale Warp-Verformung",
+      "Professionelle Carbon-Optik",
+      "Maximale Dimensionsgenauigkeit"
     ]
   }
 ]
